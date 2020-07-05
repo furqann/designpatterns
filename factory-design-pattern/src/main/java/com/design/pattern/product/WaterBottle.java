@@ -1,4 +1,6 @@
-package com.design.pattern;
+package com.design.pattern.product;
+
+import com.design.pattern.work.LabelPrinter;
 
 public class WaterBottle implements LabelPrinter {
 
